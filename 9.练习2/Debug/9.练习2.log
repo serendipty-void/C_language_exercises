@@ -1,0 +1,6 @@
+﻿  main.c
+F:\zhuomian\c++\自己练习\9.练习2\main.c(18,15): warning C4144: “>”: 关系表达式用作 switch 表达式
+F:\zhuomian\c++\自己练习\9.练习2\main.c(20,23): warning C4144: “<”: 关系表达式用作 switch 表达式
+F:\zhuomian\c++\自己练习\9.练习2\main.c(25,24): warning C4145: “==”: 关系表达式用作 switch 表达式；可能和“=”混淆
+F:\zhuomian\c++\自己练习\9.练习2\main.c(31,4): warning C4102: “defult”: 未引用的标签
+  9.练习2.vcxproj -> F:\zhuomian\c++\自己练习\Debug\9.练习2.exe
